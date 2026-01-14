@@ -1,2 +1,3 @@
 # 🗂️ Chatbot App 🤖 🗪
-## ✅ React ⚛️
+## ✅ React 
+## ✅ Babel
