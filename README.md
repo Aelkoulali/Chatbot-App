@@ -1,2 +1,2 @@
 # 🗂️ Chatbot App 🤖
-## ✅ React
+## ✅ React ⚛️
