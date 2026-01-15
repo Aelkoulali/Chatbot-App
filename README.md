@@ -1,3 +1,3 @@
 # 🗂️ Chatbot App 🤖 🗪
 ## ✅ React 
-## ✅ Components and Props
+## ✅ Creating and nesting components
