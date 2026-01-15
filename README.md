@@ -1,3 +1,4 @@
 # 🗂️ Chatbot App 🤖 🗪
 ## ✅ React 
 ## ✅ Creating and nesting components
+## ✅ Display + share data between components
