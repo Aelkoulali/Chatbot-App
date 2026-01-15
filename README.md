@@ -1,3 +1,3 @@
 # 🗂️ Chatbot App 🤖 🗪
 ## ✅ React 
-## ✅ Babel
+## ✅ Components and Props
