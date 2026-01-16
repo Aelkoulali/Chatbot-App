@@ -38,5 +38,5 @@ footer {
 
 footer a {
     color: #ffffff;
-    text-decoration: none;
+    text-decoration-line:underline;
 }
