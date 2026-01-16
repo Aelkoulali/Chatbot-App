@@ -28,10 +28,15 @@ header img {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #202020;
+    background-color: black;
     color: #ffffff;
     font-size: 14px;
     position: fixed;
     bottom: 0;
     width: 100%;    
+}
+
+footer a {
+    color: #ffffff;
+    text-decoration: none;
 }
