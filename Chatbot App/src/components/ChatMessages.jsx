@@ -1,5 +1,5 @@
-import { useEffect, useRef } from 'react';
-import  ChatMessage  from './ChatMessage';
+import { useEffect, useRef } from 'react'
+import  {ChatMessage}  from './ChatMessage';
 import './ChatMessages.css'
 
 function ChatMessages({ chatMessages }){
