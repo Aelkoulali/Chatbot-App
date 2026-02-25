@@ -1,4 +1,5 @@
 # 🗂️ Chatbot App 🤖 
 ## ➡️ Key Concepts :
-## ✅ React Project
-## ✅ Vite
+## ✅ React Project + Vite
+## ✅
+## ✅
